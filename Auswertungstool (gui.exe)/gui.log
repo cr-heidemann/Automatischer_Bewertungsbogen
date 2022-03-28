@@ -1,0 +1,73 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "pandas\core\indexes\base.pyc", line 3080, in get_loc
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 96, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 126, in pandas._libs.index.IndexEngine._get_loc_duplicates
+  File "pandas\_libs\index.pyx", line 133, in pandas._libs.index.IndexEngine._maybe_get_bool_indexer
+  File "pandas\_libs\index.pyx", line 150, in pandas._libs.index.IndexEngine._unpack_bool_indexer
+KeyError: nan
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 58, in <lambda>
+  File "Auswertung.pyc", line 19, in open_file
+  File "pandas\core\frame.pyc", line 3024, in __getitem__
+  File "pandas\core\indexes\base.pyc", line 3082, in get_loc
+KeyError: nan
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 12, in restart_program
+FileNotFoundError: [WinError 2] Das System kann die angegebene Datei nicht finden: 'gui.pyw'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "pandas\core\indexes\base.pyc", line 3080, in get_loc
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 96, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 126, in pandas._libs.index.IndexEngine._get_loc_duplicates
+  File "pandas\_libs\index.pyx", line 133, in pandas._libs.index.IndexEngine._maybe_get_bool_indexer
+  File "pandas\_libs\index.pyx", line 150, in pandas._libs.index.IndexEngine._unpack_bool_indexer
+KeyError: nan
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 58, in <lambda>
+  File "Auswertung.pyc", line 19, in open_file
+  File "pandas\core\frame.pyc", line 3024, in __getitem__
+  File "pandas\core\indexes\base.pyc", line 3082, in get_loc
+KeyError: nan
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "pandas\core\indexes\base.pyc", line 3080, in get_loc
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 96, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 126, in pandas._libs.index.IndexEngine._get_loc_duplicates
+  File "pandas\_libs\index.pyx", line 133, in pandas._libs.index.IndexEngine._maybe_get_bool_indexer
+  File "pandas\_libs\index.pyx", line 150, in pandas._libs.index.IndexEngine._unpack_bool_indexer
+KeyError: nan
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 58, in <lambda>
+  File "Auswertung.pyc", line 19, in open_file
+  File "pandas\core\frame.pyc", line 3024, in __getitem__
+  File "pandas\core\indexes\base.pyc", line 3082, in get_loc
+KeyError: nan
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 58, in <lambda>
+  File "Auswertung.pyc", line 25, in open_file
+IndexError: list index out of range
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1885, in __call__
+  File "gui.pyw", line 12, in restart_program
+FileNotFoundError: [WinError 2] Das System kann die angegebene Datei nicht finden: 'gui.pyw'
