@@ -5,4 +5,4 @@ Erstellt Bewertungsbögen in Form von Word-Dokumenten basierend auf einer verän
  
  Eine Anleitung zur Nutzung befindet sich in den Ordner.
  
- Es reicht nicht, nur die .exe-Datei herunterzuladen, für die Nutzung ist der gesamte Ordner  "Auswertung (gui.exe)" notwendig.
+ Es reicht nicht, nur die .exe-Datei herunterzuladen, für die Nutzung ist der gesamte Ordner  "Auswertungstool (gui.exe)" notwendig.
